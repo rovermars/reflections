@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+I think git creates a repository and hidden files where commits are going to be saved
+You need to do it to start a new program or make changes to an existing one. from a certain point from old version of a repository. If you whish to start programming new stuff in to a program.

@@ -1,0 +1,5 @@
+In the first lesson I haven't spotted yet how to view the changes. I saw the diferent lines but not what the errors was, i though the error was caused by different new lines of code. I didn't see the typo because i thought it was part of the code.
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+less time spend in searching files and different versions of files and their content. In the long term is efficiency and easy of use as information tends to get complexer.
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros of git, is the autonomy when to save changes vs saving everything. men is capable enough to kwow when a logical change happens. the other systems like google docs are smart and save the changes but it can be difficult for the overview of the file. Cons could be that men forget when to commit and people might have different judgments how its done. creating different types of commits.   
