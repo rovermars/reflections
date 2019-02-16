@@ -1,3 +1,20 @@
 What happens when you initialize a repository? Why do you need to do it?
 I think git creates a repository and hidden files where commits are going to be saved
 You need to do it to start a new program or make changes to an existing one. from a certain point from old version of a repository. If you whish to start programming new stuff in to a program.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a space in between where things can be added and changed. It gives you the possibility of testing new things before making changes. small changes are made then move or added to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+by working on the staging area then commit the change by logical change, meaning if a made a logical change then I commit that change to the repository when i see in that in the staging area the code is runing well
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to create new feautures of changes to teh code and still want to run the old version. so you have two version one with the normal and one with the added stuff. It lets you build software for different versions while keeping the original for test of demo.
+How do the diagrams help you visualize the branch structure?
+it makes visually the structure of changes within the software, very usefull to understand how the work and changes are progessing. and how to reach the latest master version of the software. Also to understand how the software is developing.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A new version where there is a coin aspect added to the game. So we can know that is a new master.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually? 
+
+Automatic check for conflics easier than if you do manually. It tells you where the conflict is.
